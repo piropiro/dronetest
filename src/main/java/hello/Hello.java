@@ -5,6 +5,6 @@ package hello;
  */
 public class Hello {
     public String message() {
-        return "Hello";
+        return "Hello2";
     }
 }
